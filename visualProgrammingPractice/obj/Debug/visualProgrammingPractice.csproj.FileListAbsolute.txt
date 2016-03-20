@@ -1,0 +1,6 @@
+c:\users\raza\documents\visual studio 2015\Projects\visualProgrammingPractice\visualProgrammingPractice\bin\Debug\visualProgrammingPractice.exe.config
+c:\users\raza\documents\visual studio 2015\Projects\visualProgrammingPractice\visualProgrammingPractice\bin\Debug\visualProgrammingPractice.exe
+c:\users\raza\documents\visual studio 2015\Projects\visualProgrammingPractice\visualProgrammingPractice\bin\Debug\visualProgrammingPractice.pdb
+c:\users\raza\documents\visual studio 2015\Projects\visualProgrammingPractice\visualProgrammingPractice\obj\Debug\visualProgrammingPractice.csprojResolveAssemblyReference.cache
+c:\users\raza\documents\visual studio 2015\Projects\visualProgrammingPractice\visualProgrammingPractice\obj\Debug\visualProgrammingPractice.exe
+c:\users\raza\documents\visual studio 2015\Projects\visualProgrammingPractice\visualProgrammingPractice\obj\Debug\visualProgrammingPractice.pdb
